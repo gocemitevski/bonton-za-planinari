@@ -1,0 +1,34 @@
+{
+    "name": "bonton-za-planinari",
+    "version": "1.0.0",
+    "description": "Hiking Etiquette",
+    "main": "index.js",
+    "scripts": {
+        "about:build": "echo 'Adjust file operations commands (i.e. cp) based on the OS you are running. Currently-used commands are specific to Linux-based operating systems.'",
+        "build": "npx sass --load-path=node_modules --no-source-map --style=compressed scss/style.scss css/style.css",
+        "dev:build": "npx sass --load-path=node_modules --watch scss/style.scss css/style.css",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/gocemitevski/bonton-za-planinari.git"
+    },
+    "keywords": [
+        "hiking",
+        "etiquette",
+        "Macedonia"
+    ],
+    "author": "Goce Mitevski",
+    "license": "GPL-3.0",
+    "bugs": {
+        "url": "https://github.com/gocemitevski/bonton-za-planinari/issues"
+    },
+    "homepage": "https://github.com/gocemitevski/bonton-za-planinari#readme",
+    "dependencies": {
+        "bootstrap": "^5.3.3",
+        "bootstrap-icons": "^1.11.3"
+    },
+    "devDependencies": {
+        "sass": "^1.79.3"
+    }
+}
