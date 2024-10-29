@@ -1,0 +1,33 @@
+{
+    "short_name": "Бонтон за планинари",
+    "name": "Бонтон за планинари",
+    "description": "Бонтон за планинари го прави планинарењето попријатно за сите преку неколку едноставни правила за добро однесување.",
+    "icons": [
+        {
+            "src": "img/BontonZaPlaninari-Favicon.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "id": "/",
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#198754",
+    "background_color": "#ffffff",
+    "screenshots": [
+        {
+            "src": "img/BontonZaPlaninari-Favicon.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "form_factor": "narrow",
+            "label": "Бонтон за планинари"
+        },
+        {
+            "src": "img/BontonZaPlaninari-Promo.png",
+            "sizes": "1920x1097",
+            "type": "image/png",
+            "form_factor": "wide",
+            "label": "Бонтон за планинари"
+        }
+    ]
+}
