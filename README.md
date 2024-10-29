@@ -12,4 +12,4 @@
 - [Sass](https://sass-lang.com/)
 - [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) (за сликите и илустрациите)
 
-Лиценцирано под [GNU General Public License 3.0](https://github.com/gocemitevski/bonton-za-planinari#GPL-3.0-1-ov-file).
+Лиценцирано под [GNU General Public License 3.0](LICENSE).
