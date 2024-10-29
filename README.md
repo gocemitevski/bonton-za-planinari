@@ -10,6 +10,7 @@
 - [Bootstrap Icons](https://icons.getbootstrap.com/)
 - [Node.js](https://nodejs.org/en)
 - [Sass](https://sass-lang.com/)
+- [Montserrat](https://fonts.google.com/specimen/Montserrat)
 - [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) (за сликите и илустрациите)
 
 Лиценцирано под [GNU General Public License 3.0](LICENSE).
