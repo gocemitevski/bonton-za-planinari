@@ -4,7 +4,7 @@
 
 [![Бонтон за планинари - Планинарење попријатно за сите](/img/BontonZaPlaninari-Promo.png)](https://gocemitevski.github.io/bonton-za-planinari/)
 
-„Бонтон за планинари“ е прогресивна веб-апликација изработена со помош на:
+„Бонтон за планинари“ е [прогресивна веб-апликација](https://web.dev/explore/progressive-web-apps) изработена со помош на:
 
 - [Bootstrap](https://getbootstrap.com/)
 - [Bootstrap Icons](https://icons.getbootstrap.com/)
