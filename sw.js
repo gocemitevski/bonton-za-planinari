@@ -1,8 +1,6 @@
-// ^ Required formatting marks for loading Liquid/Jekyll variables within JS
-
-var cacheName = 'cache-29-10-2024';
-var siteURL = 'https://gocemitevski.github.io/bonton-za-planinari'
-var resourcesToCache = [
+let cacheName = 'cache-29-10-2024';
+let siteURL = 'https://gocemitevski.github.io/bonton-za-planinari'
+let resourcesToCache = [
     siteURL + '/',
     siteURL + '/index.html',
     siteURL + "/css/style.css",
