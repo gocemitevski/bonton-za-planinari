@@ -16,7 +16,6 @@ let resourcesToCache = [
     siteURL + "/img/BontonZaPlaninari-Prednost.svg",
     siteURL + "/img/BontonZaPlaninari-Priroda.svg",
     siteURL + "/img/BontonZaPlaninari-Promo.png",
-    siteURL + "/img/BontonZaPlaninari-Mileniche.svg",
     siteURL + "/img/BontonZaPlaninari-Suvenir.svg",
     siteURL + "/img/BontonZaPlaninari-Zhivotno.svg",
 ];
