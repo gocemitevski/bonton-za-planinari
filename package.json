@@ -25,6 +25,7 @@
     },
     "homepage": "https://github.com/gocemitevski/bonton-za-planinari#readme",
     "dependencies": {
+        "@fontsource-variable/montserrat": "^5.1.0",
         "bootstrap": "^5.3.3",
         "bootstrap-icons": "^1.11.3"
     },
