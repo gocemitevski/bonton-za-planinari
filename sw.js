@@ -3,6 +3,7 @@ let siteURL = 'https://gocemitevski.github.io/bonton-za-planinari'
 let resourcesToCache = [
     siteURL + '/',
     siteURL + '/index.html',
+    siteURL + '/favicon.ico',
     siteURL + "/css/style.css",
     siteURL + "/fonts/Montserrat/montserrat-cyrillic-ext-wght-normal.woff2",
     siteURL + "/fonts/Montserrat/montserrat-cyrillic-wght-normal.woff2",
