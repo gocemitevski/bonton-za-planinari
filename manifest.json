@@ -2,11 +2,22 @@
     "short_name": "Бонтон за планинари",
     "name": "Бонтон за планинари",
     "description": "Бонтон за планинари го прави планинарењето попријатно за сите преку неколку едноставни правила за добро однесување.",
+    "categories": [
+        "hiking",
+        "etiquette",
+        "macedonia"
+    ],
     "icons": [
         {
             "src": "img/BontonZaPlaninari-Favicon.png",
             "type": "image/png",
             "sizes": "512x512"
+        },
+        {
+            "purpose": "maskable",
+            "src": "img/BontonZaPlaninari-Favicon.png",
+            "sizes": "512x512",
+            "type": "image/png"
         }
     ],
     "id": "/",
