@@ -1,4 +1,4 @@
-let cacheName = 'cache-29-10-2024';
+let cacheName = 'cache-' + Date.now();
 let siteURL = 'https://gocemitevski.github.io/bonton-za-planinari'
 let resourcesToCache = [
     siteURL + '/',
